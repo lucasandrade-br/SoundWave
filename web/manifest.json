@@ -1,0 +1,12 @@
+{
+    "name": "SoundWave",
+    "short_name": "SoundWave",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0B0D11",
+    "theme_color": "#0B0D11",
+    "description": "SoundWave — sua música, no seu ritmo.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [{"src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}]
+}

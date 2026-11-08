@@ -1,0 +1,122 @@
+[
+  {
+    "id": "aurora_lofi",
+    "title": "Aurora Lo-Fi",
+    "artist": "SoundWave Demo",
+    "assetPath": "assets/audio/aurora_lofi.wav",
+    "contextId": "estudo",
+    "durationMs": 18000,
+    "bpm": 80,
+    "sha256": "9ba9770ee78777e52b44513068534741836b214819fb058b09145df3fd364c82"
+  },
+  {
+    "id": "orbita_piano",
+    "title": "Órbita de Piano",
+    "artist": "SoundWave Demo",
+    "assetPath": "assets/audio/orbita_piano.wav",
+    "contextId": "estudo",
+    "durationMs": 20000,
+    "bpm": 88,
+    "sha256": "59117948f7a15dc356aa7c824d2111597411b18310127ec70563775355881721"
+  },
+  {
+    "id": "pulso_neon",
+    "title": "Pulso Neon",
+    "artist": "SoundWave Demo",
+    "assetPath": "assets/audio/pulso_neon.wav",
+    "contextId": "treino",
+    "durationMs": 18000,
+    "bpm": 132,
+    "sha256": "a834de2f8745b372e2ada79cbc65b1db43df1e08a7073e55f5596f9e2dceb312"
+  },
+  {
+    "id": "corrida_solar",
+    "title": "Corrida Solar",
+    "artist": "SoundWave Demo",
+    "assetPath": "assets/audio/corrida_solar.wav",
+    "contextId": "treino",
+    "durationMs": 20000,
+    "bpm": 140,
+    "sha256": "eab6ef3497807ba93ce7308ac689637df2793556775b09a05b91ff7e512a434c"
+  },
+  {
+    "id": "fluxo_criativo",
+    "title": "Fluxo Criativo",
+    "artist": "SoundWave Demo",
+    "assetPath": "assets/audio/fluxo_criativo.wav",
+    "contextId": "trabalho",
+    "durationMs": 18000,
+    "bpm": 100,
+    "sha256": "97bca9030b08b205fd85cd83d9ab8be4a931c0030c9f4d17c0a35160f7ca7a81"
+  },
+  {
+    "id": "mesa_cafe",
+    "title": "Mesa de Café",
+    "artist": "SoundWave Demo",
+    "assetPath": "assets/audio/mesa_cafe.wav",
+    "contextId": "trabalho",
+    "durationMs": 20000,
+    "bpm": 96,
+    "sha256": "467129ce4a79246e13a6be2a11cd74686670ed501693952f28e1c7f46c9e8558"
+  },
+  {
+    "id": "estrada_azul",
+    "title": "Estrada Azul",
+    "artist": "SoundWave Demo",
+    "assetPath": "assets/audio/estrada_azul.wav",
+    "contextId": "viagem",
+    "durationMs": 18000,
+    "bpm": 108,
+    "sha256": "f0358d25894fd2983619c422df18ad92b7f4bf91ab1839c282804c056e5a6d80"
+  },
+  {
+    "id": "horizonte_synth",
+    "title": "Horizonte Synth",
+    "artist": "SoundWave Demo",
+    "assetPath": "assets/audio/horizonte_synth.wav",
+    "contextId": "viagem",
+    "durationMs": 20000,
+    "bpm": 112,
+    "sha256": "d446a91f9a58ea048a0b6ba9b2a101f7607be8d81b3a827bede468e90dd2aa9f"
+  },
+  {
+    "id": "paginas_calmas",
+    "title": "Páginas Calmas",
+    "artist": "SoundWave Demo",
+    "assetPath": "assets/audio/paginas_calmas.wav",
+    "contextId": "leitura",
+    "durationMs": 18000,
+    "bpm": 68,
+    "sha256": "d959abbd4c8db99e9d45d5550145ee996f4d62199efb67f67c6b4b4feacae5c4"
+  },
+  {
+    "id": "jardim_acustico",
+    "title": "Jardim Acústico",
+    "artist": "SoundWave Demo",
+    "assetPath": "assets/audio/jardim_acustico.wav",
+    "contextId": "leitura",
+    "durationMs": 20000,
+    "bpm": 72,
+    "sha256": "16b4442242da50667445ef507637578af389813e96ef331cc99f3b68774203f4"
+  },
+  {
+    "id": "lua_serena",
+    "title": "Lua Serena",
+    "artist": "SoundWave Demo",
+    "assetPath": "assets/audio/lua_serena.wav",
+    "contextId": "dormir",
+    "durationMs": 18000,
+    "bpm": 50,
+    "sha256": "ce7e74079909ad7f0cc7a968d013060d98d60d511f60a255f639cc078803a0e1"
+  },
+  {
+    "id": "mar_estrelas",
+    "title": "Mar de Estrelas",
+    "artist": "SoundWave Demo",
+    "assetPath": "assets/audio/mar_estrelas.wav",
+    "contextId": "dormir",
+    "durationMs": 20000,
+    "bpm": 54,
+    "sha256": "b7d93888b1c2a3672f78567bf9f61f093b1251abcf298c3d20c87398b43120d8"
+  }
+]
